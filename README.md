@@ -10,3 +10,7 @@ It has different set of Users, who can access ceratin APIs depending on their ro
 
 3 - Residence
 
+Functionality - 
+
+
+
